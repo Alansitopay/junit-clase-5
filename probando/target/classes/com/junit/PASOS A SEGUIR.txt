@@ -1,4 +1,5 @@
 //Primero que nada, necesito que creen esta clase java.
+package com.junit;
 
 public class ConversorTemperatura {
 
