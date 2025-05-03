@@ -1,4 +1,3 @@
-//Primero que nada, necesito que creen esta clase java.
 package com.junit;
 
 public class ConversorTemperatura {
@@ -11,5 +10,3 @@ public class ConversorTemperatura {
         return (fahrenheit - 32) * 5 / 9;
     }
 }
-
-//Una vez que tengan la clase creada correctamente, continuamos
